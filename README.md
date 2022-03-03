@@ -14,9 +14,6 @@
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/company/portfoliopersonal#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/company/portfoliopersonal#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![facebook](./img/facebook-light.svg)](https://www.facebook.com/PPersonal/#gh-light-mode-only)
-[![facebook](./img/facebook-dark.svg)](https://www.facebook.com/PPersonal/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/portfoliopersonalinversiones#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/portfoliopersonalinversiones#gh-dark-mode-only)
 &nbsp;&nbsp;
