@@ -17,8 +17,8 @@
 [![instagram](./img/instagram-light.svg)](https://www.instagram.com/portfoliopersonalinversiones#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://www.instagram.com/portfoliopersonalinversiones#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![spotify](./img/spotify-light.svg)](https://open.spotify.com/show/3aRKaHvbA32pNU2mi3zDEo?si=Ymlw3e-BTMyxc92aJF27kw#gh-light-mode-only)
-[![spotify](./img/spotify-dark.svg)](https://open.spotify.com/show/3aRKaHvbA32pNU2mi3zDEo?si=Ymlw3e-BTMyxc92aJF27kw#gh-dark-mode-only)
+[![spotify](./img/spotify-dark.svg)](https://open.spotify.com/show/3aRKaHvbA32pNU2mi3zDEo?si=Ymlw3e-BTMyxc92aJF27kw#gh-light-mode-only)
+[![spotify](./img/spotify-light.svg)](https://open.spotify.com/show/3aRKaHvbA32pNU2mi3zDEo?si=Ymlw3e-BTMyxc92aJF27kw#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![github](./img/github-light.svg)](https://github.com/itAtPPI/#gh-light-mode-only)
 [![github](./img/github-dark.svg)](https://github.com/itAtPPI/#gh-dark-mode-only)
